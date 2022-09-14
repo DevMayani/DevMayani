@@ -1,32 +1,35 @@
-- 👋 Hi, I’m @DevMayani
-- 🌱 I’m currently learning Php
-- 💞️ I’m looking to collaborate on Ecommerce website using Php
-- 📫 How to reach me henyorlerjosephine@gmail.com
-<!---
-DevMayani/DevMayani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Josephine
+==================================================================================================================================
+
+A Web Developer
+-------------------------------------------
+
+A Goal-oriented,Fast self learner, Good team player, Time and task management, Strong communication skills, Solid technical expertise.
 
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devmayani&label=Profile%20views&color=0e75b6&style=flat" alt="devmayani" /> </p>
 
-<h1>
-  
-  Hello FRIENDS
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<h1>
-  Hi My name is JojoMayani
-Web Developer
-Goal-oriented and highly motivated , Fast self learner, Good team player, Time and task management, Strong communication skills, Solid technical expertise.
-  <h1>
-   <h4>
-     You can reach me on twitter <span>@DevMayani</span>
-    </h4>
-    
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmayani" alt="devmayani" /></a> </p>
 
-Connect with me:
-dev_mayani
+<p align="left"> <a href="https://twitter.com/dev_mayani" target="blank"><img src="https://img.shields.io/twitter/follow/dev_mayani?logo=twitter&style=for-the-badge" alt="dev_mayani" /></a> </p>
+- 🌱 I’m currently learning **Php**
 
-Languages and Tools:
-bootstrap php figma git html5 javascript 
+- 👯 I’m looking to collaborate on **Ecommerce website using Php**
+
+- 📫 How to reach me **henyorlerjosephine@gmail.com**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dev_mayani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_mayani" height="30" width="40" /></a>
+<a href="https://medium.com/devmayani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="devmayani" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/devmayani"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devmayani" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmayani&show_icons=true&locale=en&layout=compact" alt="devmayani" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmayani&show_icons=true&locale=en" alt="devmayani" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmayani" alt="devmayani" /></p>
