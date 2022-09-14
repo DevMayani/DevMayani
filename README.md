@@ -12,9 +12,7 @@ A Goal-oriented,Fast self learner, Good team player, Time and task management, S
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmayani" alt="devmayani" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jojo_mayani" target="blank"><img src="https://img.shields.io/twitter/follow/dev_mayani?logo=twitter&style=for-the-badge" alt="jojo_mayani" /></a> </p>
-- 🌱 I’m currently learning **React.js,PHP**
-
-
+- 🌱 I’m currently learning **React.js,Node.js**
 - 👯 I’m looking to collaborate on **Ecommerce website using Php**
 
 - 📫 How to reach me **henyorlerjosephine@gmail.com**
