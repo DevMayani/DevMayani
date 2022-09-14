@@ -19,7 +19,7 @@ A Goal-oriented,Fast self learner, Good team player, Time and task management, S
 - 📫 How to reach me **henyorlerjosephine@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dev_mayani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jojo_mayani" height="30" width="40" /></a>
+<a href="https://twitter.com/dev_mayani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devmayani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
