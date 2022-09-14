@@ -11,7 +11,7 @@ A Goal-oriented,Fast self learner, Good team player, Time and task management, S
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmayani" alt="devmayani" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dev_mayani" target="blank"><img src="https://img.shields.io/twitter/follow/dev_mayani?logo=twitter&style=for-the-badge" alt="dev_mayani" /></a> </p>
+<p align="left"> <a href="https://twitter.com/devmayani" target="blank"><img src="https://img.shields.io/twitter/follow/dev_mayani?logo=twitter&style=for-the-badge" alt="dev_mayani" /></a> </p>
 - 🌱 I’m currently learning **Php**
 
 - 👯 I’m looking to collaborate on **Ecommerce website using Php**
@@ -19,7 +19,7 @@ A Goal-oriented,Fast self learner, Good team player, Time and task management, S
 - 📫 How to reach me **henyorlerjosephine@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dev_mayani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devmayani" height="30" width="40" /></a>
+<a href="https://twitter.com/devmayani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devmayani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
