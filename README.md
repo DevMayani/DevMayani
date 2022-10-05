@@ -1,8 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Josephine
 ==================================================================================================================================
-
-[![devmayani's Holopin board](https://www.holopin.io/userbadge/cl8vi0nh7789809las4uqnxbw)](https://www.holopin.io/userbadge/cl8vi0nh7789809las4uqnxbw)
-
 A Web Developer
 -------------------------------------------
 
